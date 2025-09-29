@@ -21,7 +21,10 @@ truth table
 | 0 | 1 | 1  | 0 | 1  |
 | 1 | 1 | 1  | 1 | 1  |
 
-### full adder 4bit
+### Full adder 4 bit
 
 <img src="https://github.com/wleng2001/Subcircuits_for_falstad/blob/main/photos/full adder 4bit.png" alt="4 bit full adder schematci"></br>
 
+### Disable NOT 4 bit
+
+<img src="https://github.com/wleng2001/Subcircuits_for_falstad/blob/main/photos/disable NOT 4 bit.png" alt="disable NOT 4 bit schematic"></br>
