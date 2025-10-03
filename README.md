@@ -1,5 +1,6 @@
 # Subcircuits_for_falstad
- It's package of some subcircuits to falstad</br>
+ It's package of some subcircuits to falstad. All circuits showed bellow are saved in file library.txt.</br>
+ <img src="https://github.com/wleng2001/Subcircuits_for_falstad/blob/main/photos/library.png" alt="library circuits"></br>
  ### Linear stabilizer
  It's have 8 mA power consumption if power supply have 12 V.
 <img src="https://github.com/wleng2001/Subcircuits_for_falstad/blob/main/photos/linear stabilizer 5V.png" alt="linear stabilizer"></br>
@@ -29,6 +30,6 @@ truth table
 
 <img src="https://github.com/wleng2001/Subcircuits_for_falstad/blob/main/photos/disable NOT 4 bit.png" alt="disable NOT 4 bit schematic"></br>
 
-## Register 4 bit
+### Register 4 bit
 
 <img src="https://github.com/wleng2001/Subcircuits_for_falstad/blob/main/photos/register 4bit.png" alt="4 bit register schematic"></br>
