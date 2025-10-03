@@ -28,3 +28,7 @@ truth table
 ### Disable NOT 4 bit
 
 <img src="https://github.com/wleng2001/Subcircuits_for_falstad/blob/main/photos/disable NOT 4 bit.png" alt="disable NOT 4 bit schematic"></br>
+
+## Register 4 bit
+
+<img src="https://github.com/wleng2001/Subcircuits_for_falstad/blob/main/photos/register 4bit.png" alt="4 bit register schematic"></br>
