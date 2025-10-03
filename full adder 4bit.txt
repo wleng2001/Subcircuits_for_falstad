@@ -21,3 +21,5 @@ w 656 320 560 240 0
 207 656 288 704 288 4 S2
 207 656 400 704 400 4 S1
 207 656 512 704 512 4 S0
+. full\sadder\s4bit 0 2 9 14 A0 10 3 2 A1 15 2 2 A2 6 1 2 A3 1 0 2 B0 11 7 2 B1 16 6 2 B2 7 5 2 B3 2 4 2 OVFI 12 8 2 OVFO 5 2 3 S0 13 6 3 S1 17 5 3 S2 9 4 3 S3 4 3 3 CustomLogicElm\s1\s2\s3\s4\s5\rCustomLogicElm\s6\s7\s8\s9\s3\rCustomLogicElm\s10\s11\s12\s13\s14\rCustomLogicElm\s15\s16\s14\s17\s8 0\\sdefault\\s0\\s0\s0\\sdefault\\s0\\s0\s0\\sdefault\\s0\\s0\s0\\sdefault\\s0\\s0
+410 816 240 976 384 1 full\sadder\s4bit 0\sdefault\s0\s0 0\sdefault\s0\s0 0\sdefault\s0\s0 0\sdefault\s0\s0
